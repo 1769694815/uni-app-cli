@@ -11,14 +11,14 @@
 	export default {
 		data() {
 			return {
-				title: 'Hello'
+				title: 'hello'
 			}
 		},
 		onLoad() {
-
+			
 		},
 		methods: {
-
+			
 		}
 	}
 </script>
